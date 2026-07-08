@@ -1,5 +1,7 @@
 <h2 align="center">Uziel (Uchi)</h2>
-
+<center>
+<img width="200" height="166" alt="43b" src="https://github.com/user-attachments/assets/0aba7231-0492-43ae-a459-a77bb5465160" />
+</center>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudiante_Ingeniería-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-.NET_Core_|_C%23-purple?style=flat-square" />
@@ -11,9 +13,7 @@ Soy un desarrollador apasionado por crear soluciones escalables y de alta calida
 * 🎓 **Estudiante:** Universidad Tecnológica Emiliano Zapata (2024 - 2027).
 * 🎯 **Enfoque:** Calidad de código, escalabilidad y entrega de productos de alto valor.
 * 🗣️ **Idiomas:** Inglés A2 - Intermedio.
-<center>
-<img width="200" height="166" alt="43b" src="https://github.com/user-attachments/assets/0aba7231-0492-43ae-a459-a77bb5465160" />
-</center>
+
 
 
 
