@@ -1,4 +1,4 @@
-<h1 align="center">Klk bro</h1>
+<h2 align="center">Uziel (Uchi)</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudiante_Ingeniería-blue?style=flat-square" />
@@ -28,7 +28,6 @@ Soy un desarrollador apasionado por crear soluciones escalables y de alta calida
 ![](https://streak-stats.demolab.com/?user=uzielvasquezmartinez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=uzielvasquezmartinez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://komarev.com/ghpvc/?username=uzielvasquezmartinez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
