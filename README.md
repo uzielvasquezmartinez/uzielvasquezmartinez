@@ -1,11 +1,12 @@
 <h2 align="center">Uziel (Uchi)</h2>
-<center>
-<img width="200" height="166" alt="43b" src="https://github.com/user-attachments/assets/0aba7231-0492-43ae-a459-a77bb5465160" />
-</center>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudiante_Ingeniería-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-.NET_Core_|_C%23-purple?style=flat-square" />
 </p>
+
+<center>
+<img width="200" height="166" alt="43b" src="https://github.com/user-attachments/assets/0aba7231-0492-43ae-a459-a77bb5465160" />
+</center>
 
 ## 🚀 Sobre mí
 Soy un desarrollador apasionado por crear soluciones escalables y de alta calidad. Actualmente, me encuentro perfeccionando mis habilidades en el ecosistema **.NET Core con C#** de forma autónoma, buscando siempre aplicar las mejores prácticas y métricas de software.
