@@ -11,7 +11,7 @@ Soy un desarrollador apasionado por crear soluciones escalables y de alta calida
 
 * 🎓 **Estudiante:** Universidad Tecnológica Emiliano Zapata (2024 - 2027).
 * 🎯 **Enfoque:** Calidad de código, escalabilidad y entrega de productos de alto valor.
-* 🗣️ **Idiomas:** Español (Nativo) e Inglés (A2 - Intermedio).
+* 🗣️ **Idiomas:** Inglés A2 - Intermedio.
 <center>
 <img width="200" height="166" alt="43b" src="https://github.com/user-attachments/assets/0aba7231-0492-43ae-a459-a77bb5465160" />
 </center>
