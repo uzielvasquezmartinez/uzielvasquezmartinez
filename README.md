@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudiante_Ingeniería-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-.NET_Core_|_C%23-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Morelos,_México-green?style=flat-square" />
 </p>
 
 ## 🚀 Sobre mí
